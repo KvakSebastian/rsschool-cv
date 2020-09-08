@@ -9,7 +9,7 @@ _____
 
 ### About me:
 _____
-I want to be an exellent front-end and back-end developer in future, because i love it)
+I want to be an exellent __front-end__ and __back-end__ developer in future, because i love it)
 
 ### Skills:
 _____
@@ -37,7 +37,7 @@ ___
  
 ### Education:
 ___
- IFNTUOG - Computer Engineering bachelor 2016-2020
+ IFNTUOG - *Computer Engineering* bachelor 2016-2020
  IT Cluster Academy
  
 ### English:
